@@ -1,1 +1,1 @@
-# Rangkuman-natural-language-and-mecine-language
+# Rangkuman-natural-language-and-mecine-language[rangkuman natural language and mecine language.docx](https://github.com/user-attachments/files/17265268/rangkuman.natural.language.and.mecine.language.docx)
