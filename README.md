@@ -1,0 +1,1 @@
+# Rangkuman-natural-language-and-mecine-language
