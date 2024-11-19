@@ -1,5 +1,5 @@
 # Menghitung luas persegi
-# nama : Pawais
+# nama : Muzanni Amin
 
 print("menghitung luas persegi  ")
 panjang = int(input("Masukkan panjang : "))
